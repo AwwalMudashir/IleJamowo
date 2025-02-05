@@ -7,7 +7,7 @@ const Hero = () => {
 
   return (
     <div className="relative">
-    <section className="hero bg-[url('/fam.jpg')] h-[100vh] bg-cover bg-center text-center py-16 relative">
+    <section className="hero bg-[url('/optimized-images/fam.webp')] h-[100vh] bg-cover bg-center text-center py-16 relative">
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
       <div className="relative flex flex-col justify-center items-center h-full text-center">
         <h1 className="text-4xl font-bold text-white mb-4">Welcome to Alhaji Aroes Ajala Yusuff Family Tree</h1>

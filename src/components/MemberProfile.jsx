@@ -43,7 +43,7 @@ const MemberProfile = () => {
 
   return (
     <div>
-      <div className=" bg-[url('/fam-house.jpg')] h-[100vh] bg-cover bg-center text-center py-16 relative">
+      <div className=" bg-[url('/optimized-images/fam-house.webp')] h-[100vh] bg-cover bg-center text-center py-16 relative">
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
 
       <div className="relative flex flex-col justify-center items-center h-full text-center">
