@@ -1,0 +1,996 @@
+[
+  {
+    "id": 1,
+    "name": "Alhaji Aroes Yusuff",
+    "bio": "The founding member of the modern Jamowo family.",
+    "spouse": [2,3,4,5,6,7],
+    "image": "/images/john_doe.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Wife 1",
+    "bio": "A respected doctor in the community.",
+    "spouse": [1],
+    "children": [],
+    "image": "/images/michael_doe.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mrs. Asiawu Yusuff",
+    "bio": "An artist and passionate storyteller.",
+    "spouse": [1],
+    "children": [8,9],
+    "image": "/images/emily_doe.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Alhaja Muniratu Abebi Yusuff",
+    "bio": "An artist and passionate storyteller.",
+    "spouse": [1],
+    "children": [10,11],
+    "image": "/images/emily_doe.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Wife 4",
+    "bio": "An artist and passionate storyteller.",
+    "spouse": [1],
+    "children": [12,13],
+    "image": "/images/emily_doe.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Alhaja Sa'adat A. Yusuff",
+    "bio": "An artist and passionate storyteller.",
+    "spouse": [1],
+    "children": [14,15,16,17],
+    "image": "/images/emily_doe.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Wife 6",
+    "bio": "An artist and passionate storyteller.",
+    "spouse": [1],
+    "children": [18],
+    "image": "/images/emily_doe.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Alhaja Simbi Yusuff",
+    "bio": "Married to Alhaji Ige of Ile Gbena",
+    "spouse": [],
+    "children": [],
+    "image": "/images/jessica_doe.jpg"
+
+  },
+  {
+    "id": 9,
+    "name": "Mr. Oseni Yusuff",
+    "bio": "First Graduate of Ile Jamowo, #Mr. Teacher",
+    "spouse": [19],
+    "image": "/images/matthew_doe.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bisiryu Yusuff",
+    "bio": "A talented dancer with a love for travel.",
+    "spouse": [20,22],
+    "image": "/images/sophia_lee.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mrs. Hassanat Yusuff",
+    "bio": "Married to Ile Asalofa, Offa",
+    "spouse": [],
+    "children": [],
+    "image": "/images/robert_doe.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Alhaji Yekini Yusuff",
+    "bio": "Future scientist with a curiosity for space.",
+    "spouse": [23,24],
+    "image": "/images/lisa_doe.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Habibat Abeke Yusuff",
+    "bio": "Inventor in the making.",
+    "spouse": [],
+    "children": [],
+    "image": "/images/jack_doe.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Alhaji Mudashir Abefe Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [25,26,27,28,29],
+    "image": "/images/evelyn_smith.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Alhaja Sabitiu",
+    "bio": "Married to Alhaji Adebisi of Ile Agbatun, Offa",
+    "spouse": [],
+    "image": "/mem1.png"
+  },
+  {
+    "id": 16,
+    "name": "Engineer. Mashood Yusuff",
+    "bio": "Damsel in Distress",
+    "spouse": [121],
+    "image": "/mem2.png"
+  },
+  {
+    "id": 17,
+    "name": "Professor Tunde Ibrahim Yusuff",
+    "bio": "The First Professor of Ile Jamowo",
+    "spouse": [],
+    "image": "/mem4.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Yakubu Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Mrs. Aiia F. Yusuff",
+    "bio": "From Offinso Agyempra, Ghana",
+    "spouse": [9],
+    "children": [31,32,33,34],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Briskette Aduni Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [10],
+    "children": [35],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Idiat Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [10],
+    "children": [36,37],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Alhaja Risikat Yusuff",
+    "bio": "From Ile Ikolaba, Offa",
+    "spouse": [12],
+    "children": [38,39,41,42,43],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Badirat M. Yusuff",
+    "bio": "From Ile Esso Pataki, Offa",
+    "spouse": [12],
+    "children": [44,45],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Alhaja Sidikat Yusuff",
+    "bio": "From Ile Ajele, Offa",
+    "spouse": [14],
+    "children": [46,47,48,49,50,51],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Alhaja KubUrat Yusuff",
+    "bio": "From Ile Kure, Offa",
+    "spouse": [14],
+    "children": [52,53,54,21],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Mama Shakirat Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [14],
+    "children": [55],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Mrs. Mariam Aduke I.",
+    "bio": "From Ilorin",
+    "spouse": [14],
+    "children": [56],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Alhaja Khadijat Yusuff",
+    "bio": "From Ile Asaba , Offa",
+    "spouse": [14],
+    "children": [57,58,60,84],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Aminat Yusuff",
+    "bio": "From Ile Alubata Compound.",
+    "spouse": [39],
+    "children": [106,107,108],
+    "image": "/mem3.jpg"
+  },
+
+  {
+    "id": 31,
+    "name": "Suleiman Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [59],
+    "children": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 32,
+
+    "name": "Simiat Yusuff",
+    "bio": "Married to Mr. Erimola, Delta State",
+    "spouse": [],
+    "children": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Sheriffat Yusuff",
+    "bio": "Late",
+    "spouse": [],
+    "children": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Azeez Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [103],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Nusirat I. Yusuff",
+    "bio": "Married to Mr. Muftau Sanni , From Onitola, Offa",
+    "spouse": [],
+    "children": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Kafayat Yusuff",
+    "bio": "Married Mr. Adebiyi of Ile Ajele",
+    "spouse": [],
+    "children": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Akimat Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "children": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Ayo Yusuff",
+    "bio": "Late.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Wasiu Ola Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [30],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Musbau Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [117],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Yinka Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [114],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Majeed Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [109],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Jumoke R. Yusuff",
+    "bio": "Married To Abdul Jelili, Ile Dundun, Offa",
+    "spouse": [],
+    "children": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Rofiat Yusuff",
+    "bio": "Married to Mr. Clifford Orji, Cross River",
+    "spouse": [],
+    "children": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Kayode S. Mudashir",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [62],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Dr. Abass Mudashir",
+    "bio": "Late",
+    "spouse": [63],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Saheed Mudashir",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [64],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Sheriff Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [65],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Lateefat Shitta",
+    "bio": "Married to Alhaji Ganiu Shitta, Epe , Lagos State",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Basheerat O. Yusuff",
+    "bio": "Married Alhaji Abdul Majeed Olatinwo, Offa",
+    "spouse": [67],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Ashim Yusuff",
+    "bio": "",
+    "spouse": [130],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Jemilah Yusuff",
+    "bio": "Married to Mr. Suleiman Nurudeen, Ile Lalemi, Offa",
+    "spouse": [],
+    "children": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Saminu Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [131],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Dauda Yusuff",
+    "bio": "Late",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Shakirat Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Farouq Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [69],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Kabiru Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Mubaraq Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Mrs Mutiat M. Yusuff",
+    "bio": "From Ile Ariyunke, Offa",
+    "spouse": [31],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Muzzamil Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [71],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Yetunde Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Mrs. Nnenna Mudashir",
+    "bio": "From Umu EzeArole, Onitsha",
+    "spouse": [46],
+    "children": [72,73,74],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Lateefat Mudashir",
+    "bio": "From Ile Aselegbe, Offa",
+    "spouse": [47],
+    "children": [75,76,77],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Hafsat Bola Mudashir",
+    "bio": "From Ile Asaba, Offa.",
+    "spouse": [48],
+    "children": [78,79,80],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Mrs. Shakirat Yusuff ",
+    "bio": "From Ile nlaa, Offa",
+    "spouse": [49],
+    "children": [81,82,83],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Mrs. Olawumi A. Yusuff",
+    "bio": "From Oyo State",
+    "spouse": [56],
+    "children": [86,93,94],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Oko Jemilah",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [53],
+    "children": [95,96,97,98],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Shukurat D. Yusuff",
+    "bio": "From Ile Ijaye, Abeokuta",
+    "spouse": [60],
+    "children": [85,99,100],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Abdul-Malik Mudashir",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Mariam Mudashir",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Khalid Mudashir",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Muhammad Mudashir",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Aisha Mudashir",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Aminah Mudashir",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Aaliyah Mudashir",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Moh-Awwal Mudashir",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Aaseyah Mudashir",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Muhammad M. Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Rahmotallah Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Sultan Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Barakat Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Ikram O. Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Awwal Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Zaid Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Omo Jemilah 1",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Omo Jemilah 2",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Omo Jemilah 3",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Omo Jemilah 4",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Muhzeenat O. Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+
+  {
+    "id": 99,
+    "name": "Abdul Muiz O. Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Mrs. Falilat Yusuff",
+    "bio": "",
+    "spouse": [17],
+    "children":[132,133,134,135],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Mrs. Bimpe Yusuff",
+    "bio": "",
+    "spouse": [17],
+    "children":[136],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Mrs. Rukayat Yusuff",
+    "bio": "",
+    "spouse": [17],
+    "children":[137],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Abdul Muiz O. Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Abdul Muiz O. Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+
+
+  {
+    "id": 100,
+    "name": "Moridiyah O. Yusuff",
+    "bio": "Historian with a passion for genealogy.",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Abdul Malik B. Yusuff",
+    "bio": "",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Omo Folawe N. Yusuff",
+    "bio": "",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Mrs. Kehinde Yusuff",
+    "bio": "From Ile Asaba, Offa",
+    "spouse": [34],
+    "children":[104,105],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Mohammed Yusuff",
+    "bio": "",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Aishat Yusuff",
+    "bio": "",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Abdul Hameed Yusuff",
+    "bio": "",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Taofeeq A. Yusuff",
+    "bio": "",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Abdul Hakeem Yusuff",
+    "bio": "",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Nafeesat O. Yusuff",
+    "bio": "From Ile Asaba, Offa",
+    "spouse": [42],
+    "children":[110,111,112,113],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Muhammed Jamiu T. Yusuff",
+    "bio": "From Ile Asaba, Offa",
+    "spouse": [42],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Ridwanullah Kehinde Yusuff",
+    "bio": "From Ile Asaba, Offa",
+    "spouse": [42],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Abdul Rafiu I. Yusuff",
+    "bio": "From Ile Asaba, Offa",
+    "spouse": [42],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Ibrahim Taiye Yusuff",
+    "bio": "From Ile Asaba, Offa",
+    "spouse": [42],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Mrs. Rukayat T. Yusuff",
+    "bio": "From Ikire, Osun State",
+    "spouse": [41],
+    "children":[115,116],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Abdul Samad T. Yusuff",
+    "bio": "From Ikire, Osun State",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Abdul Rahman Yusuff",
+    "bio": "From Ikire, Osun State",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Folake Robiat Yusuff",
+    "bio": "From Ile Aami Iwo, Osun State",
+    "spouse": [40],
+    "children":[118,119,120],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Abdul Malik Musbau Yusuff",
+    "bio": "",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Abdul Lateef Yusuff",
+    "bio": "",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Abdul Mujeeb Yusuff",
+    "bio": "",
+    "spouse": [40],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 121,
+    "name": "Mrs. Abiola Yusuff",
+    "bio": "Late : From Ile ase",
+    "spouse": [16],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Dr. Bolakale Yusuff",
+    "bio": "Married to Mr. Fanibi, Ekiti State",
+    "spouse": [],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Dr. Opeyemi Yusuff",
+    "bio": "From Ile ase",
+    "spouse": [124],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 124,
+    "name": "Mrs. Esther O. Yusuff",
+    "bio": "From Oke Ero LGA , Kwara State",
+    "spouse": [123],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 125,
+    "name": "Semilore Yusuff",
+    "bio": "",
+    "spouse": [123],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 126,
+    "name": "Darasimi Yusuff",
+    "bio": "",
+    "spouse": [],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Dr. Omowumi Yusuff",
+    "bio": "Married to Mr. Damilare, Ogun State",
+    "spouse": [],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Segun Yusuff",
+    "bio": "",
+    "spouse": [],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Engr. Mashood Wife 2",
+    "bio": "",
+    "spouse": [16],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Nafeesat A. Yusuff",
+    "bio": "From Ile Asalosa, Offa",
+    "spouse": [52],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Hafsat O. Yusuff",
+    "bio": "From Ile enla, Offa",
+    "spouse": [54],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Sa'adat Yusuff",
+    "bio": "",
+    "spouse": [54],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Yusuff Yusuff",
+    "bio": "",
+    "spouse": [54],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Faad Yusuff",
+    "bio": "",
+    "spouse": [54],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Abdul-lateef Yusuff",
+    "bio": "",
+    "spouse": [],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Mariam Yusuff",
+    "bio": "",
+    "spouse": [],
+    "children":[],
+    "image": "/mem3.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Abdullah Yusuff",
+    "bio": "",
+    "spouse": [],
+    "children":[],
+    "image": "/mem3.jpg"
+  }
+
+
+]
