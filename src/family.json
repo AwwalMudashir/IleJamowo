@@ -8,16 +8,16 @@
   },
   {
     "id": 2,
-    "name": "Wife 1",
-    "bio": "A respected doctor in the community.",
+    "name": "Mrs. Adisat Yusuff",
+    "bio": "From Ile Abolude, Offa",
     "spouse": [1],
-    "children": [],
+    "children": [139,140],
     "image": "/images/michael_doe.jpg"
   },
   {
     "id": 3,
     "name": "Mrs. Asiawu Yusuff",
-    "bio": "An artist and passionate storyteller.",
+    "bio": "From Ile Asaba, Offa",
     "spouse": [1],
     "children": [8,9],
     "image": "/images/emily_doe.jpg"
@@ -32,7 +32,7 @@
   },
   {
     "id": 5,
-    "name": "Wife 4",
+    "name": "Sifahu M. Yusuff",
     "bio": "An artist and passionate storyteller.",
     "spouse": [1],
     "children": [12,13],
@@ -41,7 +41,7 @@
   {
     "id": 6,
     "name": "Alhaja Sa'adat A. Yusuff",
-    "bio": "An artist and passionate storyteller.",
+    "bio": "From Ojoku, Kwara State.",
     "spouse": [1],
     "children": [14,15,16,17],
     "image": "/images/emily_doe.jpg"
@@ -118,7 +118,7 @@
     "id": 16,
     "name": "Engineer. Mashood Yusuff",
     "bio": "Damsel in Distress",
-    "spouse": [121],
+    "spouse": [121,141],
     "image": "/optimized-images/mem2.webp"
   },
   {
@@ -193,8 +193,8 @@
   },
   {
     "id": 27,
-    "name": "Mama Shakirat Yusuff",
-    "bio": "Historian with a passion for genealogy.",
+    "name": "Fausat Tijani Yusuff",
+    "bio": "From Ile shawo Akubiado of Offa.",
     "spouse": [14],
     "children": [55],
     "image": "/optimized-images/mem3.webp"
@@ -405,7 +405,7 @@
   {
     "id": 55,
     "name": "Shakirat Yusuff",
-    "bio": "Historian with a passion for genealogy.",
+    "bio": "Married Mr Hamid Balogun of Ile Balogun Shaki, Oyo State",
     "spouse": [],
     "image": "/optimized-images/mem3.webp"
   },
@@ -995,6 +995,30 @@
     "id": 138,
     "name": "Zyatah Yusuff",
     "bio": "",
+    "spouse": [],
+    "children":[],
+    "image": "/optimized-images/mem3.webp"
+  },
+  {
+    "id": 139,
+    "name": "Nusirat A. Yusuff",
+    "bio": "Married Mr. Opoola of Ile Ajilo, Offa",
+    "spouse": [],
+    "children":[],
+    "image": "/optimized-images/mem3.webp"
+  },
+  {
+    "id": 140,
+    "name": "Raliat A. Yusuff",
+    "bio": "Married Mr. Bello of Ile Abogunugun, Offa",
+    "spouse": [],
+    "children":[],
+    "image": "/optimized-images/mem3.webp"
+  },
+  {
+    "id": 141,
+    "name": "Mrs. Florence O. Yusuff",
+    "bio": "From Ile Alape Olugbense, Offa",
     "spouse": [],
     "children":[],
     "image": "/optimized-images/mem3.webp"
